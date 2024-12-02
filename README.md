@@ -2,6 +2,10 @@
 
 A robust Node.js script that automatically follows back your BlueSky followers. Built with rate limiting protection and error handling to ensure reliable operation.
 
+Run on a Clean VPS.
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=e22bbff5f6f1&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 ## Features ✨
 
 - Automatically follows back all your followers
