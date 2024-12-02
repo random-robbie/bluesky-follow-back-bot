@@ -26,8 +26,8 @@ Run on a Clean VPS. Use this link and add a valid payment method, you immediatel
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/bluesky-auto-follow.git
-cd bluesky-auto-follow
+git clone https://github.com/random-robbie/bluesky-follow-back-bot.git
+cd bluesky-follow-back-bot
 ```
 
 2. Install dependencies:
