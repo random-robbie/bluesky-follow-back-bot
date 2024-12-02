@@ -1,0 +1,14 @@
+{
+  "name": "bluesky-follower",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "follow.js",
+  "scripts": {
+    "start": "node follow.js"
+  },
+
+  "dependencies": {
+    "@atproto/api": "^0.13.18",
+    "dotenv": "^16.4.5"
+  }
+}
