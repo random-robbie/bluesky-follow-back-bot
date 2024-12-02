@@ -28,7 +28,7 @@ cd bluesky-auto-follow
 
 2. Install dependencies:
 ```bash
-npm install
+npm install @atproto/api dotenv
 ```
 
 3. Create a `.env` file in the project root:
